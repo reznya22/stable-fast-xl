@@ -26,7 +26,7 @@ stable-fast works as a plugin framework for **PyTorch**. It utilizes existing Py
 
 ### Install dependencies
 ```bash
-pip install diffusers, transformers, safetensors, accelerate, sentencepiece
+pip install diffusers transformers safetensors accelerate sentencepiece
 ```
 
 ### Download repository and run script for stable-fast installation
