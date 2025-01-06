@@ -1,4 +1,9 @@
 # Stable-fast-xl
+<div>
+    <a href='https://huggingface.co/artemtumch/stable-fast-xl'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFaceModel-StableFastXL-blue'></a>&ensp;
+    <a href='https://github.com/chengzeyi/stable-fast'><img src='https://img.shields.io/badge/StableFast-262826?logo=github'></a>&ensp;
+    <a href='https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFaceModel-SDXL-blue'></a>&ensp;
+</div>
 
 Stable-fast is an ultra lightweight inference optimization framework for HuggingFace Diffusers on NVIDIA GPUs. stable-fast provides super fast inference optimization by utilizing some key techniques.
 this repository contains a compact installation of the stable-fast compiler https://github.com/chengzeyi/stable-fast and its inference with the stable-diffusion-xl-base-1.0
