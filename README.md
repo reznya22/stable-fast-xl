@@ -42,7 +42,7 @@ where **cp311** -> for **python 3.11**  **|** **cp38** -> for **python3.8**
 
 then run script
 ```bash
-sudo sh install_stable-fast.sh
+sh install_stable-fast.sh
 ```
 
 ## Generate image
